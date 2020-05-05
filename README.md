@@ -33,7 +33,7 @@ Data was collected from from CMS website. The data set consist of five (5) files
 
 ![alt text](https://github.com/parthrana34/Data-Warehousing-for-Healthcare-System/blob/master/Data%20Models%20(ER-Studio)/Dimensional_Model_Final.jpg "Logo Title Text 1")
 
-### Dashboards:
+### Tableau Dashboards:
 
 ![alt text](https://github.com/parthrana34/Data-Warehousing-for-Healthcare-System/blob/master/dashboard1.png "Logo Title Text 1")
 
