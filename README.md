@@ -3,7 +3,7 @@
 ### Objective:
 Analyze cost and treatment KPIs of different types of health service provider and also, analyze the nursing home facilities condition and Inpatient healthcare conditions.
 
-### Softwares
+### Softwares:
 
 1. SQL Server Integration Service
 2. SQL Server Analysis Service
@@ -21,19 +21,19 @@ Data was collected from from CMS website. The data set consist of five (5) files
 4. Medicare Provider Utilization and Payment Data: Outpatient
 5. Medicare Provider Utilization and Payment Data: Inpatient
 
-### Data and Process Flow
+### Data and Process Flow:
 
 ![alt text](https://github.com/parthrana34/Data-Warehousing-for-Healthcare-System/blob/master/Process%20Flow.png "Logo Title Text 1")
 
-### ER Diagram
+### ER Diagram:
 
 ![alt text](https://github.com/parthrana34/Data-Warehousing-for-Healthcare-System/blob/master/Data%20Models%20(ER-Studio)/Model_physical.jpg "Logo Title Text 1")
 
-### Fact Dimension Model
+### Fact Dimension Model:
 
 ![alt text](https://github.com/parthrana34/Data-Warehousing-for-Healthcare-System/blob/master/Data%20Models%20(ER-Studio)/Dimensional_Model_Final.jpg "Logo Title Text 1")
 
-### Dashboards
+### Dashboards:
 
 ![alt text](https://github.com/parthrana34/Data-Warehousing-for-Healthcare-System/blob/master/dashboard1.png "Logo Title Text 1")
 
